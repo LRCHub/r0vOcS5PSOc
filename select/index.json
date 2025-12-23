@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "もちょっとトリッカル",
+  "base_artist": "コミー（CV：河瀬 茉希）、アヤ（CV：日笠 陽子）、ヨミ（CV：高野 麻里佳）",
+  "createdAt": "2025-12-23T04:17:32.733044Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もちょっとトリッカル",
+      "artist": "コミー(CV:河瀬 茉希),アヤ(CV:日笠 陽子),ヨミ(CV:高野 麻里佳)",
+      "has_synced": false,
+      "path": "select/pl_01_もちょっとトリッカル_コミー(CV_河瀬_茉希),アヤ(CV_日笠_陽子),ヨミ(CV_高野_麻里佳).txt"
+    }
+  ]
+}
